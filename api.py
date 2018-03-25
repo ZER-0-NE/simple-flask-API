@@ -8,13 +8,13 @@ app.config["DEBUG"] = True
 atten = [
     {'subid': 0,
      'subject': 'Computer org and Architecture',
-     'attendance': 83},
+     'attendance': 98},
     {'subid': 1,
      'subject': 'OOPS',
-     'attendance': 89},
+     'attendance': 97},
     {'subid': 2,
      'subject': 'Discrete Structures',
-     'attendance': 79}
+     'attendance': 99}
 ]
 
 
